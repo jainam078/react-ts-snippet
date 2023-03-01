@@ -26,7 +26,7 @@ This React project uses React Redux Toolkit for state management and React Route
 
 1. Clone the repository:
 
-git clone https://github.com/your-repository.git
+git clone https://github.com/jainam078/react-ts-snippet.git
 
 
 2. Install the dependencies:
